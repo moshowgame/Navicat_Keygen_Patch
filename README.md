@@ -9,14 +9,16 @@ NavicatCracker for 16 / Navicat Keygen Patch for 15 / trial reset batch for 16
 >新增*NavicatCracker，16.X版本专永，已破解成功！
 >本仓库仅供学习使用，请于24h内删除。
 
-Chinese/English Tips for Navicat Wimmm Cracker:
-1.双击无限试用脚本 Run the 'Navicat_Retry_16_17.bat' script
-3.下载和安装navicat-premium . Download and Install the 'navicat17_premium_cs_x64.exe'
-4.安装完后不要打开已打开自行退出 . Close the Navicat and DO NO open it , close it if it opened .
-5.将自己系统版本对应的 winmm.dll 放置于Navicat安装目录下即可。 Unzip and put the winmm.dll into your navicat folder 
-6.完成 finish,enjoy
+#Chinese/English Tips for Navicat Wimmm Cracker:
+0. 下载该学习资源 | Download this study resouce ['Navicat_Wimmm_Cracker_16_17.x.zip'](https://github.com/moshowgame/Navicat_Keygen_Patch/blob/main/Navicat_Wimmm_Cracker_16_17.x.zip) 
+1. 双击无限试用脚本 | Run the 'Navicat_Retry_16_17.bat' script
+3. 下载和安装navicat-premium . | Download and Install the 'navicat17_premium_cs_x64.exe'
+4. 安装完后不要打开已打开自行退出 . | Close the Navicat and DO NO open it , close it if it opened .
+5. 将自己系统版本对应的 winmm.dll 放置于Navicat安装目录下即可。| Unzip and put the winmm.dll into your navicat folder 
+6. 完成 | finish,enjoy
 
-最新验证可用版本Latest Verified Version：V17.1.3
+
+>最新验证可用版本Latest Verified Version：V17.1.3
 <img src="./Navicat_Wimmm_Cracker.png">
 
 
