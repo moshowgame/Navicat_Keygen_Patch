@@ -1,8 +1,36 @@
-# 🗂️ Navicat_Keygen_Patch / Navicat学习资源合集
+# [🗂️ Navicat_Keygen_Patch / Navicat学习资源合集](https://github.com/moshowgame/Navicat_Keygen_Patch)
+
+
 
 > ⚠️ **Important Notice / 重要声明**
 > - **English**: This repository is for learning and research purposes only. Please delete within 24 hours.
 > - **中文**: 本仓库仅供学习和研究使用，请于24小时内删除。
+
+---
+## Star History
+
+<a href="https://www.star-history.com/?repos=moshowgame%2Fnavicat_keygen_patch&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=moshowgame/navicat_keygen_patch&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=moshowgame/navicat_keygen_patch&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=moshowgame/navicat_keygen_patch&type=date&legend=top-left" />
+ </picture>
+</a>
+
+## 👤 About the Collector / 收集者简介
+
+**[Moshow](https://zhengkai.blog.csdn.net/)**，一名热爱技术与分享的 **Technical Lead & 数据科学家 & SpringBoot 专家**。
+
+- 🌟 **CSDN 博客之星** 2025 年度 TOP100
+- ⭐ GitHub **4K Stars**（[moshowgame](https://github.com/moshowgame)）
+- 🏅 持有多项权威认证：
+  - ☁️ **GCA** 谷歌云架构师认证
+  - 🧠 **Neo4j** 数据科学家认证
+  - 🅰️ **阿里云 ACP** 认证
+  - 🏢 **金蝶高级 CRM** 供应链工程师认证
+  - 📋 **PMP** 项目管理认证
+  - 🎯 **CSPM** 项目管理专业人员能力评价认证
+  - 🤖 **广东省人工智能训练师**认证
 
 ---
 
@@ -39,7 +67,7 @@
 |-------------------|---------------------------|-------------|---------------|
 | 🆓 [Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite#) | 最新版 / Latest | 官方免费版 / Official Free | ✅ 学习首选，无需补丁 |
 | 🛠️ Navicat Wimmm Cracker | 16/17/18 | DLL Patch / DLL补丁 | ⭐⭐⭐⭐⭐ 最新推荐，支持 Navicat 18 |
-| 🔧 Navicat Keygen Patch | 15/16/17 | Activation Tool / 激活工具 | out-off-date / 旧版可用 |
+| 🔧 Navicat Keygen Patch | 15/16/17 | Activation Tool / 激活工具 | out-of-date / 旧版可用 |
 | 🔄 Navicat Trial Reset | 15/16/17/18 | Trial Reset / 试用重置 | ⭐Available / v18也可用，15天执行一次重置 |
 | 🚀 NavicatCracker | 16.X | Crack Tool / 破解工具 | Demise / 仅用于16版本 |
 
@@ -70,24 +98,26 @@
 
 | 项目 / Item | 详情 / Detail |
 |-------------|--------------|
-| ✅ 验证版本 / Verified Version | `Navicat Premium V17.3.6` |
-| 📅 验证日期 / Verified Date | `2025-11-30` |
+| ✅ 验证版本 / Verified Version | `Navicat Premium V18.0.3` |
+| 📅 验证日期 / Verified Date | `2026-10-04` |
 | 🛠️ 验证工具 / Verified Tool | 🛠️ Navicat Wimmm Cracker（`winmm.dll` 方式，支持 16/17/18） |
 
 ## 👨‍💻 Project Contributors / 项目贡献者
 
-| Tool Name / 工具名称 | Original Author / 原作者 | Collector / 收集者 |
-|-------------------|------------------------|-------------------|
-| 🔧 Navicat Keygen Patch | DFoX | zhengkai.blog.csdn.net |
-| 🔄 Navicat Reset Patch | Anonymous Developer / 匿名开发者 | zhengkai.blog.csdn.net |
-| 🚀 NavicatCracker | tgMrz@DoubleSine | zhengkai.blog.csdn.net |
-| 🛠️ Navicat Wimmm Cracker | ajiajishu | zhengkai.blog.csdn.net |
+| Tool Name / 工具名称 | Original Author / 原作者 |
+|-------------------|------------------------|
+| 🔧 Navicat Keygen Patch | DFoX |
+| 🔄 Navicat Reset Patch | Anonymous Developer / 匿名开发者 |
+| 🚀 NavicatCracker | tgMrz@DoubleSine |
+| 🛠️ Navicat Wimmm Cracker | ajiajishu |
+
+> 📦 以上工具均由 [Moshow](https://zhengkai.blog.csdn.net/) 收集整理 / All tools above are collected & maintained by [Moshow](https://zhengkai.blog.csdn.net/)
 
 ## 📝 Important Notes / 注意事项
 
 ### ⚠️ Usage Guidelines / 使用规范
-- **中文**: 使用「试用重置」方案（`navicat16 trial reset batch.bat`，通过清理注册表重置试用）时，每半个月需执行一次；使用 Wimmm DLL 补丁方案时，放置 `winmm.dll` 一次即可，无需重复操作。
-- **English**: If using the trial-reset solution (`navicat16 trial reset batch.bat`), run it every half month; the Wimmm DLL patch is a one-time setup only.
+- **中文**: 使用「试用重置」方案（`navicat16 trial reset batch.bat`，通过清理注册表重置试用）时，每 15 天需执行一次；使用 Wimmm DLL 补丁方案时，放置 `winmm.dll` 一次即可，无需重复操作。
+- **English**: If using the trial-reset solution (`navicat16 trial reset batch.bat`), run it every 15 days; the Wimmm DLL patch is a one-time setup only.
 
 ### 🔒 Legal Compliance / 法律合规
 - **English**: For learning and research only, not for commercial use. For commercial scenarios, please use the official free edition or purchase a license.
